@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<paths>
+    <!-- 代表设备的根目录 new File("/") -->
+    <external-path name="external-path" path="." />
+</paths>
